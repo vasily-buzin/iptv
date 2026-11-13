@@ -36,8 +36,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="Россия / DVB-T2",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT.ru" tvg-name="ТНТ" tvg-logo="https://i.imgur.com/1WqIPOB.png" group-title="Россия / DVB-T2",ТНТ
-http://stream.mcquack.net/135/index.m3u8
-#http://ott-cdn.ucom.am/s19/index.m3u8
+http://ott-cdn.ucom.am/s19/index.m3u8
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Муз-ТВ" tvg-logo="https://i.imgur.com/Ml3qqOF.png" group-title="Россия / DVB-T2",Муз-ТВ
 https://streaming102.interskytech.com/live/618.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="РБК" tvg-logo="https://i.imgur.com/P2Qii5B.png" group-title="Россия / DVB-T2",РБК
